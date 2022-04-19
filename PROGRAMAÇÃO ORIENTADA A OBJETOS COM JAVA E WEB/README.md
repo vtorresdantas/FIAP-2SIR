@@ -36,7 +36,8 @@
 
 ## Estudo do Polimorfismo e Interfaces 
 - Conceito, aplicação e implementação 
-- Classes Abstratas  Sobreposição de métodos
+- Classes Abstratas 
+- Sobreposição de métodos
 - Métodos de interface default e static 
 
 ## Tratamento de Exceções 
