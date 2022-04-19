@@ -1,0 +1,1 @@
+# Alocação dinâmica de memória
