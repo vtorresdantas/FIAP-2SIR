@@ -1,5 +1,15 @@
 # Checkpoints - Códigos de alta perfomance - Revisão Global solution
 
+## Dados abstratos
+
+- dados: vetor com 10 elementos reais
+- topo: inteiro
+
+## Dados concretos
+
+- double [] dados = new double [10];
+- int topo;
+
 ## Pilha sequencial (push, pop, top)
 
 ## Exercícios
