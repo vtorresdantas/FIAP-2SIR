@@ -1,4 +1,4 @@
-# Diagrama de casos de uso
+# Diagrama de casos de uso - Exercício
 
 - Aula de 02/08/2022 referente a Diagrama de casos de uso
 
