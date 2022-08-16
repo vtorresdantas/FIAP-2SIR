@@ -1,6 +1,30 @@
 # Diagrama de casos de uso - Exercício
 
-- Aula de 02/08/2022 referente a Diagrama de casos de uso
+- Aula de 02/08/2022 e 09/08/2022 referente a Diagrama de casos de uso
+
+## Descrição do diagrama de caso de uso
+
+- UseCase: ação a ser tomada pelo sistema
+
+- Summary: resumo do UserCase
+
+- Actor: usuário a utilizar o sistema
+
+- Precondition: ação a ser tomada antes do caso de uso ser utilizado
+
+- Poscondition: ação a ser tomada depois do caso de uso ser utilizado de forma positiva ou negativa
+
+- Base Sequence: é o fluxo que mais ocorre (mundo ideal do sistema)
+
+- Branch Sequence: é o fluxo alternativo que pode ocorrer de acordo com as ações do ator
+
+- Exception Sequence: é o fluxo que pode ocorrer em determinado passo se tiver qualquer problema
+
+- Sub UseCase: casos de uso relacionados ao caso de uso principal
+
+- Note: UseCase relacionado
+
+
 
 ## UC - Contexto
 
