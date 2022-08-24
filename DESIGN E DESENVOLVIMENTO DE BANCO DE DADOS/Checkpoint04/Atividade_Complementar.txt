@@ -1,0 +1,31 @@
+Atividade Complementar - Checkpoint 4
+######################################
+
+1) Connected com seu usuário no banco de dados, abra uma "tabsheet" and execute o seguinte comando:
+
+EXEC PF0400.SET_ACCESS_PROF
+
+2) crie no seu usuário a uma tabela chamada TB_AUDITORIA com as seguintes colunas e as constraints necessárias
+
+id_auditoria  number(10)       -- vai ser a chave primária da tabela
+nm_usuario    varchar2(50)     -- vai conter o nome do usuario que fez a alteração e é um campo obrigatório
+nm_tabela     varchar2(35)     -- vai conter o nome da tabela sendo alterada e é um campo obrigatório
+tp_comando    varchar2(30)     -- vai conter o tipo de comando que deve ser obrigatoriamente um dos tres valores: INSERT ou UPDATE ou DELETE
+
+Descreva as colunas da tabela usando:
+DESC TB_AUDITORIA
+
+
+3) Altere a tabela TB_AUDITORIA para que tenha duas novas colunas, conforme especificação abaixo:
+
+dt_alteracao   date         -- deve ser obrigatória e conter o valor default SYSDATE
+status         number(1)    -- deve conter o valor default 1
+
+
+4) Altere a tabela  TB_AUDITORIA de forma que a coluna status tenha o tipo de dados number(2)
+
+
+5) execute o seguinte comando:
+
+EXEC PF0400.SET_ACCESS_PROF
+
