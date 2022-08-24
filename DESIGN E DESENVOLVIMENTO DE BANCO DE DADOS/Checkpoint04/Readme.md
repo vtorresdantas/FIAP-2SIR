@@ -37,6 +37,12 @@ existirem, a nota será reduzida pela metade
 
 ![image](https://user-images.githubusercontent.com/62342894/185463607-9761176a-9117-43fa-9958-0563156abfc3.png)
 
+# Referências
+
+- Criação de Constraints CHECK no Oracle
+
+https://www.devmedia.com.br/criacao-de-constraints-check-no-oracle/25211
+
 
 
 
