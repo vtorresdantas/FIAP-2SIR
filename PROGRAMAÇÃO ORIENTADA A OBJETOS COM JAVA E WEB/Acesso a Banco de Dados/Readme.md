@@ -95,6 +95,41 @@ EnderecoDAO dao = new EnderecoDAO();
 
 dao.listar();
 
+## Declaração dos objetos a serem utilizados
+
+- private Connection connection;
+- private PreparedStatement ps;
+- private ResultSet rs;
+- private String sql;
+
+## Imports classe DAO
+
+- import java.sql.Connection;
+- import java.sql.PreparedStatement;
+- import java.sql.ResultSet;
+- import java.sql.SQLException;
+
+## Imports Classe conexão
+
+- import java.sql.Connection;
+- import java.sql.DriverManager;
+- import java.sql.SQLException;
+
+## Imports janela gráfica
+
+- import static javax.swing.JOptionPane.*;
+
+## Imports List
+
+- import java.util.ArrayList;
+- import java.util.List;
+
+
+
+
+
+
+
 
 
 
