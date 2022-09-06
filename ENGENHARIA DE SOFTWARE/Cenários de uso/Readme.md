@@ -1,5 +1,12 @@
 # Cenários de uso
 
+## Exemplo
+
+![image](https://user-images.githubusercontent.com/62342894/188718355-bf4c8cba-66cb-4fd7-a65a-ca183c284c2e.png)
+
+![image](https://user-images.githubusercontent.com/62342894/188718369-bf0a828a-b66d-4d0c-8a97-ee9658261974.png)
+
+
 ## 1. UC - Cadastrar vagas
 
 ![image](https://user-images.githubusercontent.com/62342894/188709648-567a0611-4ec1-4039-b791-22beec678542.png)
