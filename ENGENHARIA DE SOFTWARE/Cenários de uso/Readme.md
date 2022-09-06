@@ -53,5 +53,29 @@ Passos: [P1]; [P2]; [P3]; [P4]; [A2.1]; [A2.2];  [A2.3]; [A2.4]; [A2.5];
 
 Passos: [P1]; [P2]; [P3]; [P4]; [A1.1]; [A3.1]; [A3.2];
 
+4. UC - Registrar saída de veículo
+
+![image](https://user-images.githubusercontent.com/62342894/188752460-1c6ebcc1-facc-4bbc-9a87-6cb368d0e32d.png)
+
+# 4. Solução
+
+## Cenário Primário: 
+1,2,3,4,5,6,7,8,9,10,11,12,13
+
+## Cenário Secundário I: 
+1,2,3,E1.1,E1.2 
+
+## Cenário Secundário II: 
+1,2,3,E1.1,A2.1
+
+## Cenário Secundário III: 
+1,2,3,4,5,6,7,E2.1,E2.2
+
+## Cenário Secundário IIII: 
+1,2,3,4,5,6,7,E2.1,A2.1
+
+Cenário Secundário IIIII: 
+1,2,3,4,5,6,7,8,A1.1
+
 
 
