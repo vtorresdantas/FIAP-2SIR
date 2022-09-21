@@ -1,5 +1,9 @@
 # Checkpoint05
 
+# Informações
+
+- Este repositório possui o código em JAVA, o script SQL para a carga , modificação e remoção de dados e o script sql utilizado para as alterações no banco a partir do código em JAVA.
+
 ## Introdução
 
 Seu banco de dados está criado, com todas as suas tabelas e constraints que garantem a qualidade de seu projeto de acordo com as formas normais que regem um banco de dados relacional (pelo menos até a 3ª Forma Norma). Mas todas as tabelas estão vazias!
