@@ -7,3 +7,6 @@ https://g506b2a18b45b5e-jz6i11hwhkwxtgxg.adb.sa-saopaulo-1.oraclecloudapps.com/o
 username: loginCheckBd
 
 senha: fiap2022
+
+Link do vídeo no youtube: https://youtu.be/5BJD0_U355Y
+
