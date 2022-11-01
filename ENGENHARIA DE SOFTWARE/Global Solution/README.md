@@ -1,5 +1,7 @@
 # Global Solution - Engenharia de Software
 
+resumo mts https://github.com/mtshto/gs-resumos/blob/main/README.md
+
 ## Extend e includ
 
 ![image](https://user-images.githubusercontent.com/62342894/199144802-b00cfacf-d6b9-4389-8bcf-de9244013e9f.png)
