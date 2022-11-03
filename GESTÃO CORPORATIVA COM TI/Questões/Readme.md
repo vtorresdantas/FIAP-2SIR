@@ -28,6 +28,21 @@ R: Enquanto um e-commerce requer apenas um local e uma rede de internet, o e-bus
 
 ### business inteligence, tomada de decisão do mercado, como funciona? vantagem e desvantagem dentro do gerenciamento de processo
 
+#### Desvantagens do BI:
+- A empresa não reconhecer as necessidades de informações;
+- Sinais fracos do ambiente de negócios passam despercebidos;
+- Informações recebidas de profissionais da empresa não podem ser utilizadas efetivamente;
+- Um grande volume de informações primárias são dispersas e há poucas informações analisadas e estruturas;
+- As ferramentas técnicas acabam sendo inúteis e dispersas;
+- As informações não podem ser usadas de maneira efetiva;
+- A coleta de informações das variadas fontes externas é realizada de um modo que a relação custo-benefício não é favorável;
+#### Vantagens do BI:
+- Expansão nas vendas;
+- Marketing mais eficiente;
+- Possibilidade de acompanhamento em tempo real;
+- Maior precisão na gestão do estoque;
+- Auxílio para o setor de compras;
+
 ### diferença workflow pro bpm, o que cada um faz, quais os benefícios, passo a passo para uma boa elaboração
 
 Um workflow está relacionado a uma sequência de atividades que podem ser manuais ou procedimentos automatizados (baseados em software). Por outro lado, o Business Process Management está relacionado à execução e gerenciamento de processos de negócios.
