@@ -6,7 +6,12 @@ R:  melhora o relacionamento com os clientes, praticidade no armazenamento de in
 
 ### 2 modelos de gestão estratégica
 
+![image](https://user-images.githubusercontent.com/62342894/199843233-1602b536-30f0-47fb-ac94-d819993cc236.png)
+
+
 ### Estratégia modelo de negócio, níveis organizacionais 
+
+![image](https://user-images.githubusercontent.com/62342894/199842732-75078a46-7604-4740-99f6-d6084b56f9ee.png)
 
 R: 
 
