@@ -22,6 +22,20 @@ R: Os sistemas de gestão ERP auxiliam na redução de custos por evitarem o des
 
 ### Ecommerce e ebusiness diferenças e em quais camadas cada um se localiza
 
+R: Enquanto um e-commerce requer apenas um local e uma rede de internet, o e-business precisa ter um site, CRM e ERP, por exemplo, e usa conexão de internet, intranet e extranet. Por esse motivo, há quem goste de afirmar que o e-business é um conjunto de sistemas necessários para que uma negócio aconteça. Para que o e-commerce inicie sua operação, é preciso apenas um site. O fato de o e-business ser 100% online e o e-commerce nem sempre ser assim também é outra diferença importante de se destacar.
+
+![image](https://user-images.githubusercontent.com/62342894/199840732-54b361d3-7e04-4ff2-a5bb-f08f1d68c1c4.png)
+
 ### business inteligence, tomada de decisão do mercado, como funciona? vantagem e desvantagem dentro do gerenciamento de processo
 
 ### diferença workflow pro bpm, o que cada um faz, quais os benefícios, passo a passo para uma boa elaboração
+
+Um workflow está relacionado a uma sequência de atividades que podem ser manuais ou procedimentos automatizados (baseados em software). Por outro lado, o Business Process Management está relacionado à execução e gerenciamento de processos de negócios.
+
+### Workflow
+
+Workflow trata de uma sequência de atividades com o objetivo de dar uma visão geral de um processo, a fim de reduzir as ineficiências, monitorar resultados e incorporar a automação. Além disso, serve para alinhar os processos com os objetivos do negócio e sistematizar como documentos e tarefas são concluídos e executados para qualidade e/ou conformidade.
+
+### BPM
+
+BPM é a sigla para Business Process Management (ou Gerenciamento de Processos de Negócios). Trata-se de uma metodologia que constantemente avalia alterações e melhorias nos mais variados aspectos de um processo.
