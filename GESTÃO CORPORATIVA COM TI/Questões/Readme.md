@@ -28,6 +28,15 @@ R: Enquanto um e-commerce requer apenas um local e uma rede de internet, o e-bus
 
 ### business inteligence, tomada de decisão do mercado, como funciona? vantagem e desvantagem dentro do gerenciamento de processo
 
+Apesar de o BI não ser um software em si, há programas envolvidos neste conceito, como softwares de gestão, planilhas, entre outros sistemas que analisam dados. Apesar disso, não é apenas a ferramenta em si que trará os resultados, e sim o conceito. Somente após criamos o conceito de elaborar, cadastrar e analisar os dados, que conseguimos fazer o BI trabalhar de maneira eficiente.
+
+Vamos a outras definições para o conceito:
+
+- A inteligência é fundamental para o sucesso de qualquer negócio. Uma das maiores frustrações dos executivos tem sido o fato das organizações investirem na melhoria de seus sistemas operacionais, no entanto, continuaram impotentes em relação à obtenção de informações gerenciais. É nesse ponto que surgiram as soluções de BI – Business Intelligence. Ao implantar uma solução de BI, todos executivos da empresa, além de passarem a visualizar as mesmas informações, potencializam a possibilidade de extração de informações e níveis ate mesmo não imaginados até o momento;
+- O BI é a capacidade que os sistemas têm de corrigir uma grande quantidade de informações e apresentar isso em um formato analítico, que possa ser imediatamente reconhecível, e de uma maneira geral, um formato gráfico;
+- Bussines Intelligence refere-se ao processo de coleta, organização, análise, compartilhamento e monitoramento que oferecem suporte à gestão de negócios;
+- Business Intelligence é o conjunto de metodologias, teorias, processos e tecnologias que transformam um enorme volume de dados brutos em informação útil para a tomada de decisões;
+
 #### Desvantagens do BI:
 - A empresa não reconhecer as necessidades de informações;
 - Sinais fracos do ambiente de negócios passam despercebidos;
