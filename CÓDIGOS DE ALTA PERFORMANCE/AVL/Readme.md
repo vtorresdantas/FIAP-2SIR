@@ -9,3 +9,10 @@
 ## Regras para Decisão de Rotações AVL 
 
 ![image](https://user-images.githubusercontent.com/62342894/200343235-3c5a9b40-289a-4f89-a172-cdf076b731b3.png)
+
+## Fator de balanceamento
+
+![image](https://user-images.githubusercontent.com/62342894/200412137-c81bab30-b0d7-401f-8722-0c5b1f9784c3.png)
+
+![image](https://user-images.githubusercontent.com/62342894/200412165-7c4e7475-f9d0-423a-bd02-67dbf418f42a.png)
+
