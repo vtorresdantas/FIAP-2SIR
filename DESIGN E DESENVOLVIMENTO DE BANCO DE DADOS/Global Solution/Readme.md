@@ -152,6 +152,7 @@
 
 # JOIN
 
+![image](https://user-images.githubusercontent.com/82169520/200902266-8b573016-9f1e-40ed-9b2d-1547beb29a6c.png)
 ![image](https://user-images.githubusercontent.com/62342894/200666000-7f8bf901-f896-4df8-b3e4-4def57334dad.png)
 
 ## Inner JOIN
