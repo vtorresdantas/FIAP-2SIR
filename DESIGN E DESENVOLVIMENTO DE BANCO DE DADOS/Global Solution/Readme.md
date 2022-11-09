@@ -151,6 +151,7 @@
 ![image](https://user-images.githubusercontent.com/62342894/200665913-029a0d9b-dd94-4e05-a091-cbc4b1bb9fef.png)
 
 # JOIN
+![image](https://user-images.githubusercontent.com/82169520/200904089-e8dfcb92-24d2-4593-85a0-42d3715b5845.png)
 
 ![image](https://user-images.githubusercontent.com/82169520/200902266-8b573016-9f1e-40ed-9b2d-1547beb29a6c.png)
 ![image](https://user-images.githubusercontent.com/62342894/200666000-7f8bf901-f896-4df8-b3e4-4def57334dad.png)
