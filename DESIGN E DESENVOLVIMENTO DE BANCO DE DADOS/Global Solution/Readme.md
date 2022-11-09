@@ -214,4 +214,20 @@
 
 ![image](https://user-images.githubusercontent.com/62342894/200900536-2823cb25-5dcb-4bc5-b247-0798b2021981.png)
 
+## Funções em grupo
+![image](https://user-images.githubusercontent.com/82169520/200910822-f16fcdc8-2d26-4b45-aa0e-d7be06a52baf.png)
+
+![image](https://user-images.githubusercontent.com/82169520/200910945-dbbeb5f6-1e62-44a8-afa2-0fb5d4f124ac.png)
+![image](https://user-images.githubusercontent.com/82169520/200910975-2d987ca1-73fb-4724-99d9-c63bec35a93c.png)
+
+![image](https://user-images.githubusercontent.com/82169520/200911025-d370a8da-804e-4d44-be2a-2c7e1050b807.png)
+![image](https://user-images.githubusercontent.com/82169520/200911084-7e19fa4e-bbb7-4a43-aed8-63b6fde220a3.png)
+
+## Função Group by
+![image](https://user-images.githubusercontent.com/82169520/200911265-e18e6ce5-321e-4310-b48e-a9f3544a2e5a.png)
+
+## Função Having
+![image](https://user-images.githubusercontent.com/82169520/200911387-b336a398-f757-44fa-a2a1-9f4da7de7e91.png)
+
+
 
