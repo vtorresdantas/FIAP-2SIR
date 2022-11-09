@@ -160,6 +160,7 @@
 ![image](https://user-images.githubusercontent.com/62342894/200666027-11b0e3ab-ef39-4aec-8862-e72f113ac4f9.png)
 ![image](https://user-images.githubusercontent.com/62342894/200666100-b3454a34-84b3-4d29-afb1-eecb15062260.png)
 ![image](https://user-images.githubusercontent.com/62342894/200666138-52aa18bc-0c86-417a-963c-c15efd984136.png)
+![image](https://user-images.githubusercontent.com/82169520/200903039-21fe3241-266f-48ba-8a68-48070a9dfb40.png)
 
 ## Outer JOIN
 
