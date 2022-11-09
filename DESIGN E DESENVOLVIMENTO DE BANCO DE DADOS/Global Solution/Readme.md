@@ -22,6 +22,9 @@
 # CONSTRAINTS
 ![image](https://user-images.githubusercontent.com/62342894/200663562-4bf2b57b-c547-486f-9428-a297599d74fe.png)
 
+## Constraint Not Null
+![image](https://user-images.githubusercontent.com/82169520/200861727-4d4e6a9a-d139-45ed-a9a8-453c21125599.png)
+
 ## Constraint UNIQUE
 
 ![image](https://user-images.githubusercontent.com/62342894/200664058-5b17d870-08dc-45eb-b704-8ae85d1b4d48.png)
