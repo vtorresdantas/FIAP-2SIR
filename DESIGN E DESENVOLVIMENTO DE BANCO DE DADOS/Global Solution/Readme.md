@@ -194,4 +194,20 @@
 
 ![image](https://user-images.githubusercontent.com/62342894/200666824-813c1cc1-b175-4d7e-8d41-c14866d851b9.png)
 
+## Função Case
+
+![image](https://user-images.githubusercontent.com/62342894/200900364-f62abd3f-d47a-427a-80a9-d18625d03674.png)
+
+## Função TO_CHAR
+
+![image](https://user-images.githubusercontent.com/62342894/200900445-fd1f4a0c-f8f1-4f8d-a929-48df65bda6b3.png)
+
+## Função TO_NUMBER
+
+![image](https://user-images.githubusercontent.com/62342894/200900491-3eb152c0-68a6-4a5b-8f8e-b85f97055039.png)
+
+## Função TO_DATE
+
+![image](https://user-images.githubusercontent.com/62342894/200900536-2823cb25-5dcb-4bc5-b247-0798b2021981.png)
+
 
