@@ -190,6 +190,7 @@
 ## Funções aplicada a números
 
 ![image](https://user-images.githubusercontent.com/62342894/200666749-d9e6049f-12a3-4e8e-a81b-1e21a19af9f3.png)
+![image](https://user-images.githubusercontent.com/82169520/200908436-4b301bca-7544-4108-ae35-9eeb45e4f68b.png)
 
 ## Função NVL
 
