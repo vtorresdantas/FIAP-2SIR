@@ -1,5 +1,9 @@
 # Global Solution
 
+# Commit
+
+![image](https://user-images.githubusercontent.com/62342894/200857613-35d64f69-306d-4393-9e9b-e1266ccef1db.png)
+
 # DDL – Data Definition Language
 
 ![image](https://user-images.githubusercontent.com/62342894/200663164-65e3d25a-ae9a-45f9-88be-95998506f2fa.png)
