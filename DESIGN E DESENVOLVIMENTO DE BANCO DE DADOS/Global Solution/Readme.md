@@ -41,6 +41,10 @@
 
 ![image](https://user-images.githubusercontent.com/62342894/200664231-da6d9adb-ea2e-4c52-aece-99ab2ee99ff1.png)
 
+## Truncate
+![image](https://user-images.githubusercontent.com/82169520/200862890-4ce76e59-0f02-480e-836e-ec2a11102378.png)
+
+
 # DML – Data Manipulation Language
 
 ![image](https://user-images.githubusercontent.com/62342894/200664360-28775be2-597c-424c-aa3a-18e51220f12f.png)
