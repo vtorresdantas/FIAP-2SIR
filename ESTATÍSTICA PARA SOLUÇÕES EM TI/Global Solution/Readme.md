@@ -6,7 +6,7 @@ Sendo assim, vocês poderão utilizar o MS Excel durante a avaliação. (As fór
 
 - F) Média Geométrica
 
-## Fórmula
+## Fórmula Média Geométrica
 
 ![image](https://user-images.githubusercontent.com/62342894/201156039-c30d602f-bd7b-4635-99e5-2615a9f2c5f2.png)
 
@@ -18,7 +18,7 @@ Sendo assim, vocês poderão utilizar o MS Excel durante a avaliação. (As fór
 
 - G) Média Harmônica
 
-## Fórmula
+## Fórmula Média Harmônica
 
 ![image](https://user-images.githubusercontent.com/62342894/201156837-8d0a60c4-83c3-4cbf-9502-f5e1ca5ab95f.png)
 
@@ -31,7 +31,7 @@ Sendo assim, vocês poderão utilizar o MS Excel durante a avaliação. (As fór
 
 - H) Desvio Padrão e Coeficiente de Variação (e Média Aritmética)
 
-## Fórmula
+## Fórmula Desvio Padrão e Coeficiente de Variação
 
 ![image](https://user-images.githubusercontent.com/62342894/201157161-cda730bf-4d9b-4e52-a338-a397deda4b0e.png)
 ![image](https://user-images.githubusercontent.com/62342894/201157187-3e1cd672-1a21-4fcb-8786-3bd55ad61379.png)
