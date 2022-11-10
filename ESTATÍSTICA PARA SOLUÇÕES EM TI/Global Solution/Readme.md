@@ -50,4 +50,18 @@ Sendo assim, vocês poderão utilizar o MS Excel durante a avaliação. (As fór
 - I) Curva Normal
 
 ![image](https://user-images.githubusercontent.com/62342894/201158309-2eb3b130-313c-432d-83c6-dfd628bfacb8.png)
+![image](https://user-images.githubusercontent.com/82169520/201192706-6558d306-4601-410b-89a0-009f4b2a615b.png)
+![image](https://user-images.githubusercontent.com/82169520/201192723-703682e1-f37f-4159-bab5-f722ed509df5.png)
+![image](https://user-images.githubusercontent.com/82169520/201192742-8cffd98e-d060-4d65-a1d9-ba6395cd0eca.png)
+
+![image](https://user-images.githubusercontent.com/82169520/201192759-8b971974-29b2-4ecd-9b1f-9e714298b90a.png)
+![image](https://user-images.githubusercontent.com/82169520/201192774-b4760846-660c-47c4-ba9a-33ea8707bf35.png)
+![image](https://user-images.githubusercontent.com/82169520/201192785-039bad32-7eb1-4658-a0d9-38d13f8ed0e3.png)
+![image](https://user-images.githubusercontent.com/82169520/201192799-153ac432-57ea-41ea-bfd9-f30ee2f064a0.png)
+![image](https://user-images.githubusercontent.com/82169520/201192810-c5308320-5fb0-41a5-994f-265b5fcbd99e.png)
+![image](https://user-images.githubusercontent.com/82169520/201192829-cd6bcad0-36dd-4078-bf73-fa46ea62f9da.png)
+![image](https://user-images.githubusercontent.com/82169520/201192850-0ea47914-2e05-446f-a6e9-d8bcf8bc9e81.png)
+![image](https://user-images.githubusercontent.com/82169520/201192926-3d0c8eb2-607e-484d-8cff-b81a427ba9e4.png)
+![image](https://user-images.githubusercontent.com/82169520/201193710-ae6fc223-a296-41b1-a2c6-813dca951ebd.png)
+
 
